@@ -1,6 +1,6 @@
-# Week 2 - Python Programming
+# Week 1 - Python Programming
 
-Welcome to Week 2 of the Generative AI Track!
+Welcome to Week 1 of the Generative AI Track!
 
 This week focuses on strengthening your Python fundamentals through practical coding tasks. Python is the primary programming language used throughout the Generative AI ecosystem, from data preprocessing and model training to inference and deployment.
 
